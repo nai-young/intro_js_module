@@ -1,0 +1,20 @@
+{
+  "name": "introduccion-javascript",
+  "version": "1.0.0",
+  "description": "curso introducción a js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.keepcoding.io/Naiche/introduccion-javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "web"
+  ],
+  "author": "Naiche",
+  "license": "ISC"
+}
