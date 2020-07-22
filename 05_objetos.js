@@ -11,7 +11,7 @@ obj.nombre = 'Pepe'
 console.log(obj)
 
 // notación JSON u objetos literales
-const user = { nombre: 'Marta', edad: 34, fechaDeNacimiento: '23/01/2000' }
+const user = { nombre: 'Maria', edad: 34, fechaDeNacimiento: '23/01/2000' }
 console.log(user)
 
 // funciones constructoras
