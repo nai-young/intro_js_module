@@ -10,6 +10,7 @@ const algo = function () {
 algo()
 
 // invocacion tipo constructor
+// eslint-disable-next-line new-cap
 const obj = new algo()
 
 // invocacion tipo method
